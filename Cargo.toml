@@ -3,6 +3,7 @@ name = "f2c"
 version = "0.1.0"
 authors = ["Jordyn <jordyn@husk.pro>"]
 edition = "2018"
+repository = "https://github.com/Huskehhh/f2c"
 
 [dependencies]
 clipboard = "0.5.0"

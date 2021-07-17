@@ -76,7 +76,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "f2c-rs"
+name = "f2c"
 version = "0.1.0"
 dependencies = [
  "clap",

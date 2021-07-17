@@ -28,7 +28,7 @@ fn main() {
             match ctx.set_contents(data) {
                 Ok(_) => {
                     println!("Contents copied to clipboard.");
-                },
+                }
                 Err(why) => {
                     eprintln!("Error when copying contents to clipboard... {}", why);
                 }

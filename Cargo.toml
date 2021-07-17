@@ -1,0 +1,9 @@
+[package]
+name = "f2c"
+version = "0.1.0"
+authors = ["Jordyn <jordyn@husk.pro>"]
+edition = "2018"
+
+[dependencies]
+clipboard = "0.5.0"
+clap = "2.33.3"
